@@ -1,0 +1,23 @@
+.app-wrapper {
+    height: 10vh;
+    border: 1px dashed;
+}
+
+.headerImg {
+    width: 30px;
+}
+
+.blockNavCont {
+    display: flex;
+
+}
+.nav{
+    border: 1px dashed;
+    width: 10vh;
+    height: 90vh;
+}
+
+.content{
+    border: 1px dashed;
+    width: 210vh;
+}
