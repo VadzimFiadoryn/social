@@ -1,17 +1,20 @@
-/* eslint-disable react/react-in-jsx-scope */
-// eslint-disable-next-line no-unused-vars
-const Technologies = () =>{
-    return(
-        
-    <div>
-     <ul>
+import React from 'react';
+import './App.css';
+
+const Technologies = () => {
+  return (
+    <div className="App">    
+    Simple Html
+      
+    <ul>
       <li>css</li>
       <li>html</li>
       <li>js</li>
       <li>react</li>
-    </ul>   
+    </ul>
+    
     </div>
-    );
-} 
+  );
+}
 
 export default Technologies;
