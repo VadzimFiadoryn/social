@@ -22,7 +22,7 @@ const MyPosts = (props) => {
             <div>
                 <div>
                     <textarea onChange={onPostChange}
-                      value = {props.getNewPostText()}/>
+                      value = {props.getNewPostText}/>
                 </div>
                 <div>
                     <button onClick={ addPost }>Add post</button>
