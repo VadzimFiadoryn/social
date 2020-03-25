@@ -30,7 +30,7 @@ let state = {
             {id: 5, message: 'Yo'}
         ]
     },
-    newDialogText: "test text",
+    newDialogText: "",
     sidebar: {}
 }
 
